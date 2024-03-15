@@ -1,4 +1,4 @@
-### oleksandr_mirnyk
+### - **Discord**: [oleksandr_mirnyk](https://discord.com/users/oleksandr_mirnyk)
 
 <!--
 **oleksandrmirnik/oleksandrmirnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
